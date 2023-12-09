@@ -10,3 +10,5 @@
   - [Arquitetura do Bluetooth](https://d229kd5ey79jzj.cloudfront.net/1013/esp32_bluetooth_architecture_en.pdf)
   - [gravar códigos utilizando a IDE Arduino](https://github.com/espressif/arduino-esp32#installation-instructions)
   - [ESP32 Datasheet](https://d229kd5ey79jzj.cloudfront.net/1013/esp32_datasheet_en.pdf)
+  - [Understanding ESP32’s Security Features](https://blog.espressif.com/understanding-esp32s-security-features-14483e465724)
+  - [Build affordable Secure connected devices with ESP32-H2](https://blog.espressif.com/build-affordable-secure-connected-devices-with-esp32-h2-b8d542df8cb4)
