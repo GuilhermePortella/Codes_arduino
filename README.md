@@ -15,7 +15,8 @@
   - [AppleJuice](https://github.com/ECTO-1A/AppleJuice)
   - ## M5Stick-NEMO
   - [Improved Arduino TV-B-Gone](https://www.righto.com/2010/11/improved-arduino-tv-b-gone.html)
-  - ##CardComputer STANPS3
+  - ## CardComputer STANPS3
   - [Marauder](https://github.com/marivaaldo/ESP32Marauder)
   - ## EvilCrow
   - [EvilCrow RF](https://github.com/joelsernamoreno/EvilCrow-RF)
+  - [EvilCrowRF_Custom_Firmware](https://github.com/Offensive-Wireless/EvilCrowRF_Custom_Firmware)
