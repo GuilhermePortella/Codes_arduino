@@ -20,3 +20,7 @@
   - ## EvilCrow
   - [EvilCrow RF](https://github.com/joelsernamoreno/EvilCrow-RF)
   - [EvilCrowRF_Custom_Firmware](https://github.com/Offensive-Wireless/EvilCrowRF_Custom_Firmware)
+  - ## Raspberry Pi Pico H
+  - [Pinagem da placa](https://d229kd5ey79jzj.cloudfront.net/1313/Pico-R3-A4-Pinout.pdf)
+  - [Arquivo Fritzing da placa](https://www.robocore.net/placa-raspberry-pi/raspberry-pi-pico-h/#:~:text=Arquivo%20Fritzing%20da%20placa)
+  - ()[]
